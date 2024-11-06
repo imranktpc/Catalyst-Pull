@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coral-gate-380914",
+  "private_key_id": "289ef7fcdd785dafc545a28501b3a3bc77b4486c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTvFpEWzxgHQ5K\nOY2OmlFWEpXRj/pba67jXgRsF/NjW06CD+7eks5cNfw7sHzB+ZOZ1+qOSvYXGFx8\nqovn0dQOI0XUcezgXLn2QiaE0aniS6YWeD43pDgKIYBBCeqIdrX2GNRDTxJt5Rev\nYYtAJleJgf/R5vlBRH9+hglMMGD/tJOJMxK1TetIFRypqDxA20/QaaVGEOWK8lmz\ntyJF0j5U1N7vRqMd6lQMJoAN1us6ngnjBXkxaTGdue2myVyA25ddRsK5ZFKnjJUt\ncUW+d+F+MUT0KWvfqxU1C/XpadGgd47hXi4KuLRiWdOCzm6uG0B3YDzpKb22uknY\nlS9AnnjjAgMBAAECggEAA3XS62zzohCsKALnFOL6ariut6TWqVOBWiP2mI2LDtWx\npgw3fREVMkW1bbR5h5WP5nePL9wDnZDdgbIA6uIYRGiBFzO/55Vkaacs/clnYDyD\nXF1en7EB+wLD3UIdMysMogH83sK4XMiT4HC5cTw0qqzX0BPH3MZ88fqztwwfCX4p\nJkYmjcxDIb1B2U6WGnu9E0g5cHrP5I/cEAmNwH7Hv0CznpKpOZls9vUnO7GTcL0g\nORRZWwOzWHOfpuJbKMxe7UoEsyOvlBSIJKfxdbCDUb6HmWgNrWEUrl6a1kU1oUh+\nWPKR6acOfxGSwgyveP2wSygmSWC3ClDe0ztYPHddCQKBgQDDc0QEn3oOkp/VDWEO\nmhES4+Qaco2fPG7G+moxqx5hhnJGsOpuu74OIGWH+qhC3auz6b0AUV2CcJMF6NDG\nIjt25SePAYy5iawTaj/2tG9Yw+xTA6VgDklFM4DMHvakMASCjn1FKo2xtoOdpBTx\n6wFbKdlN1AoBUUS9QgK5FHAgtwKBgQDBgPQWRA4UE/RuX//ll857IKwdIzB98n7M\nnK3fFbGnbr+ChFvnn5rARSAqd3It5cZQROdWIBP2h+ICghjvPC5uk6YgAykID67F\nRm4pk3Xv6yjemq86G/iROTLnmhPMde6wsMlq7FkD/AtGHDDPtBCCQ50KgzIC7+XD\n8MTqnPzlNQKBgCgCqKHpo6roCSAsJPpAP86GKGPhn2xBisvg52xTg1yjkTE3dkZE\n2Js7to0nmtpVVpj1+GLgRSw2r2I+Tr7AszubnYWA47X3oOo4je+K8GBTe0VjMa+A\nPS+VY4BltkfWLJYtZSeLloYSvs6+kCsV2Kk43+s2xPWQFWpI4RXSQUHxAoGBAJHV\njh/5ymJ3Z5CH6WQvtP428YBENRe22rl6m8+1md6GKO9Esb8vGoItlsBqpTLSKVP1\nmiPeqSzz2/Hn+sLSqGvN+zXFK/dXWnBzVDMhX5EhufuKuOUij4NjiGnkRWeiufGQ\nSzy6Q5wtKJH+TQs8ufRy4Lg7iEWOZ6v0mXP4PODBAoGBAJa66BNLVklL5I/e9M9V\nql/pleXNSqaTbdlEyFicb61czj8nxk0YSnMdkb8GUD2qIPQkiSdfZ9wD1repAVHU\nZOaBkNM5OYhSR1uVJogTA1ZoZpPzxjVGD6+9mnsLXkwJKc1l9iazgzSNXjxfJCs+\nhgV9vGKe5jYeT9jdba35ranc\n-----END PRIVATE KEY-----\n",
+  "client_email": "tpcaccountforpython@coral-gate-380914.iam.gserviceaccount.com",
+  "client_id": "109876818921486955080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tpcaccountforpython%40coral-gate-380914.iam.gserviceaccount.com"
+}
